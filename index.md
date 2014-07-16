@@ -9,6 +9,14 @@ Assistant Professor [Alan Marchiori](http://eg.bucknell.edu/~amm042/)
  * **Office Hours**: By appointment; [**Schedule an appointment**](https://doodle.com/amm042)
  * **Email**: [amm042@bucknell.edu](mailto:amm042@bucknell.edu)
 
+License
+-----
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+
 Course Description
 ----
 Use a hardware description language to describe and design digital systems. Processor design, pipelining, cache and storage systems. Instruction and thread level parallelism, speculation, branch prediction.
@@ -30,6 +38,24 @@ ABET Outcomes
 Textbook
 ----
 
-Recommended
-* [Hennessy & Patterson's Computer Architecture: A Quantitative Approach, 5th Edition](http://www.amazon.com/gp/product/012383872X). This edition has changed significantly. The 4th edition (or older) will not work.
+**Recommended**
+* Hennessy & Patterson's [Computer Architecture: A Quantitative Approach](http://www.amazon.com/gp/product/012383872X), 5th Edition. This edition has changed significantly. The 4th edition (or older) will not work.
+* [Computer Organization and Design: The Hardware/Software Interface](http://amzn.com/0124077269), 5th Edition. ISBN 978-0124077263.
+
+Lecture
+----
+
+TBD
+
+Lab 
+----
+
+TBD
+
+Policies
+=====
+
+Attendance and Participation
+-----
+An important part of the class is your active participation. If people do not show up to class or do other work (or sleep) while in class it degrades the quality of the class for everyone. Therefore, all students are expected to attend and actively participate in all classes and labs. If you have to miss a class please contact the instructor **at least 24 hours prior to the start of that class**.
 
