@@ -24,17 +24,8 @@ By the end of the semester, students are expected to be able to:
 
 ABET Outcomes
 -----
-<ol type="a"><li>An ability to apply knowledge of mathematics, science, and engineering</li>
-<li>An ability to design and conduct experiments, as well as to analyze and interpret data</li>
-<li>An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability</li>
-<li>An ability to function on multidisciplinary teams</li>
-<li>An ability to identify, formulate, and solve engineering problems</li>
-<li>An understanding of professional and ethical responsibility</li>
-<li>An ability to communicate effectively</li>
-<li>The broad education necessary to understand the impact of engineering solutions in a global, economic, environmental, and societal context</li>
-<li>A recognition of the need for, and an ability to engage in life-long learning</li>
-<li>A knowledge of contemporary issues</li>
-<li>An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.</li>
+<ol type="a"><li>An ability to apply knowledge of mathematics, science, and engineering</li><li>An ability to design and conduct experiments, as well as to analyze and interpret data</li><li>An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability</li><li>An ability to function on multidisciplinary teams</li><li>An ability to identify, formulate, and solve engineering problems</li><li>An understanding of professional and ethical responsibility</li><li>An ability to communicate effectively</li>
+<li>The broad education necessary to understand the impact of engineering solutions in a global, economic, environmental, and societal context</li><li>A recognition of the need for, and an ability to engage in life-long learning</li><li>A knowledge of contemporary issues</li><li>An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.</li>
 </ol>
 
 Textbook
