@@ -24,8 +24,7 @@ By the end of the semester, students are expected to be able to:
 
 ABET Outcomes
 -----
-<ol type="a" class="list-style">
-<li>An ability to apply knowledge of mathematics, science, and engineering</li>
+<ol type="a"><li>An ability to apply knowledge of mathematics, science, and engineering</li>
 <li>An ability to design and conduct experiments, as well as to analyze and interpret data</li>
 <li>An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability</li>
 <li>An ability to function on multidisciplinary teams</li>
