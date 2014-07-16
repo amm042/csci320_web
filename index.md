@@ -25,17 +25,20 @@ By the end of the semester, students are expected to be able to:
 ABET Outcomes
 -----
 
-	a. An ability to apply knowledge of mathematics, science, and engineering
-	b. An ability to design and conduct experiments, as well as to analyze and interpret data
-	c. An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability
-	d. An ability to function on multidisciplinary teams
-	e. An ability to identify, formulate, and solve engineering problems
-	f. An understanding of professional and ethical responsibility
-	g. An ability to communicate effectively
-	h. The broad education necessary to understand the impact of engineering solutions in a global, economic, environmental, and societal context
-	i. A recognition of the need for, and an ability to engage in life-long learning
-	j. A knowledge of contemporary issues
-	k. An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.
+<ol type="a">
 
-Textbook (
+<li>An ability to apply knowledge of mathematics, science, and engineering</li>
+2. An ability to design and conduct experiments, as well as to analyze and interpret data
+c. An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability
+d. An ability to function on multidisciplinary teams
+e. An ability to identify, formulate, and solve engineering problems
+f. An understanding of professional and ethical responsibility
+g. An ability to communicate effectively
+h. The broad education necessary to understand the impact of engineering solutions in a global, economic, environmental, and societal context
+i. A recognition of the need for, and an ability to engage in life-long learning
+j. A knowledge of contemporary issues
+k. An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.
+</ol>
 
+Textbook
+----
