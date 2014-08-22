@@ -43,6 +43,9 @@ Textbook
 * Hennessy and Patterson, "[Computer Architecture: A Quantitative Approach](http://www.amazon.com/gp/product/012383872X)", 5th Edition. ISBN  978-0123838728. One copy is on reserve fro this course at the library. The library also has the [eBook version available](http://bucknell.eblib.com/patron/FullRecord.aspx?p=787253) (Bucknell login required).
 * Patterson and Hennessy, "[Computer Organization and Design: The Hardware/Software Interface](http://amzn.com/0124077269)", 5th Edition. ISBN 978-0124077263. This is the required text for CSCI206. One copy is on reserve for this course at the library. The eBook is not yet available.
 
+**Reference**
+* Samir Palnitkar, "[Verilog HDL](http://www.amazon.com/Verilog-HDL-paperback-2nd-Edition/dp/0132599708)", 2nd Edition. ISBN 978-0132599702. One copy is on reserve for this course at the library. No eBook.
+
 Lecture
 ----
 
@@ -71,8 +74,7 @@ Your instructor will make every effort to promptly return all graded work to you
 
 Component | Grade
 ----      | ----
-Wiki Project   |   10%
-Verilog Project (Lab)* | 40%
+Course Project (Lab)* | 50%
 Activities & Quizzes  |  10%
 Midterm Exam | 15%
 Final Exam* | 25%
@@ -95,6 +97,8 @@ Score | Grade
 <60   | F
 
 Bonus points may occasionally be available.
+
+If you think you find a grading error, you may request a regrade. Regrade requests must be recieved no later than 72 hours after the assignment/exam is returned. The new grade will be the final grade used.
 
 Late Work
 -----

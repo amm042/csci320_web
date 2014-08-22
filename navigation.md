@@ -1,3 +1,4 @@
+
 # CSCI320 
 [Home](index.md)
 [Schedule](schedule.md)
