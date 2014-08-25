@@ -44,6 +44,7 @@ Textbook
 * Patterson and Hennessy, "[Computer Organization and Design: The Hardware/Software Interface](http://amzn.com/0124077269)", 5th Edition. ISBN 978-0124077263. This is the required text for CSCI206. One copy is on reserve for this course at the library. The eBook is not yet available.
 
 **Reference**
+
 * Samir Palnitkar, "[Verilog HDL](http://www.amazon.com/Verilog-HDL-paperback-2nd-Edition/dp/0132599708)", 2nd Edition. ISBN 978-0132599702. One copy is on reserve for this course at the library. No eBook.
 
 Lecture
@@ -98,7 +99,7 @@ Score | Grade
 
 Bonus points may occasionally be available.
 
-If you think you find a grading error, you may request a regrade. Regrade requests must be recieved no later than 72 hours after the assignment/exam is returned. The new grade will be the final grade used.
+If you think you find a grading error, you may request a regrade. Regrade requests must be recieved no later than **72 hours after the assignment/exam is returned**. It is possible for the new grade to be lower than the original grade. In all cases the most recent grade is used (not the highest grade).
 
 Late Work
 -----
