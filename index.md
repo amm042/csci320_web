@@ -1,4 +1,4 @@
-Computer Architecture
+CSCI320 - Computer Architecture
 ======
 
 Instructor
@@ -8,6 +8,14 @@ Assistant Professor [Alan Marchiori](http://eg.bucknell.edu/~amm042/)
  * **Office**: Breakiron 268
  * **Office Hours**: By appointment; [**Schedule an appointment**](https://doodle.com/amm042)
  * **Email**: [amm042@bucknell.edu](mailto:amm042@bucknell.edu)
+
+Important Links
+-----
+Bucknell login requierd. 
+
+ * [Activites / homeworks](http://bit.ly/320Activities)
+ * [Handouts](http://bit.ly/320Handouts)
+ * [Lecture Slides](http://bit.ly/320Slides)
 
 License
 -----
@@ -37,6 +45,8 @@ ABET Outcomes
 
 Textbook
 ----
+
+We will be closely following parts of the Hennessy and Patterson textbook. All of the material will be presented in class as lecture slides or papers. Some people may be succesfful from the class notes alone. However, depending on your learning style, you may find it useful to read the text. One copy is on reserve at the library for occasional use. If you are a book learner or plan to pursue graduate studies in a related field, obtaining a copy of the text is highly recommended.
 
 **Recommended**
 
